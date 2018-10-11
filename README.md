@@ -14,5 +14,5 @@ $ npm install
 
 # usage
 # deployment one-liner
-$ hexo clean && hexo generate && cp README.md public/ && hexo deploy
+$ hexo clean && hexo generate && cp README.md public/ && cp index.html public/ && hexo deploy
 ```
