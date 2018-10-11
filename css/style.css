@@ -155,7 +155,15 @@ h2 {
     margin-bottom: 20px;
 }
 
+@font-face {
+    font-family: 'BigNoodleTitling';
+    src: url('../fonts/BigNoodleTitling.eot?#iefix') format('embedded-opentype'), url('../fonts/BigNoodleTitling.woff') format('woff'), url('../fonts/BigNoodleTitling.ttf') format('truetype'), url('../fonts/BigNoodleTitling.svg#BigNoodleTitling') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .profile h1 {
+    font-family: 'BigNoodleTitling';
     font-weight: 400;
     letter-spacing: 0px;
     font-size: 20px;
