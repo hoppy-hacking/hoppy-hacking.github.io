@@ -1,15 +1,12 @@
-# greyhatgt.github.io
-Georgia Tech's cyber security student organization,
-website created with [Hexo](https://hexo.io/)
+# hoppy-hacking.github.io
 
-*this is a note to self*
-
+*this is a note to the maintainer*
 ```shell
 # prerequisites: npm
 
 # installation
 $ npm install hexo-cli -g
-$ cd /path/to/greyhatgt.github.io/
+$ cd /path/to/hoppy-hacking.github.io/  # NOT the GitHub.com repo!
 $ npm install
 
 # usage
